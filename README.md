@@ -2,8 +2,9 @@
 
 Mamasaidov M.A. ruboiylari — asl matn (o‘zbek, kirill) va 15 tilga tarjima, qadimiy qo‘lyozma uslubida.
 
-- **Brauzerda o‘qish (telefon, planshet, kompyuter):** https://msoqiy.github.io/soqiy-baytlari/
-- **Android ilova (APK):** [soqiy-baytlari.apk](https://github.com/MSoqiy/soqiy-baytlari/raw/main/soqiy-baytlari.apk)
+- **Brauzerda o‘qish (telefon, planshet, kompyuter):** https://msoqiy.github.io/soqiy-baytlari/oqish/
+- **Android ilova (APK):** [soqiy-baytlari.apk](https://github.com/MSoqiy/soqiy-baytlari/raw/main/apk/soqiy-baytlari.apk)
+- **Ilova sahifasi:** https://msoqiy.github.io/soqiy-baytlari/
 
 ## Imkoniyatlar
 - 960 dan ortiq ruboiy, har biri naqshinkor ramkada: yuqorida asl matn, pastda tarjima
